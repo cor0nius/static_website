@@ -1,3 +1,8 @@
 __pycache__/
 public/index.html
 public/styles.css
+src/test_htmlnode.py
+src/test_leafnode.py
+src/test_parentnode.py
+src/test_textnode.py
+test.sh
